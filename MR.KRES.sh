@@ -1,8 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
-# Auto Install Tools v.2.1
-# coded By Mr.Cakil 
-# gausah ganti copyright kalo mau di hargai
-# Bersihkan Layar
+#!/system/xbin/bash
 clear
 
 blue='\e[0;34'
